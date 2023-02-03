@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 1. Show transactions where currency is US dollars
 
-    `SELECT * from transactions where currency="USD"`
+    `SELECT * from transactions where currency="USD";`
 
 1. Show transactions in 2020 join by date table
 
